@@ -1,5 +1,5 @@
 # EDUCATIONAL-FRDM-K82F-2
-EDUCATIONAL: Soft Real Time O.S. with Non - Preemptive Round Robin Task Scheduling - NXP ARM Cortex M4F
+EDUCATIONAL: Soft Real Time O.S. with Round Robin Task Scheduling - NXP ARM Cortex M4F
 
 This is a basical code pattern for a Round Robin scheduler that assign a fixed time quanta for each task execution. 
 SysTick timer and it's core interrupt is used to trigger and change context.
